@@ -1,26 +1,12 @@
 # Gagan Sopori
+**Building quiet utility at the intersection of Python and Hardware.**
 
-I develop software that bridges the gap between digital logic and physical utility. My work focuses on Python-based automation, IoT systems, and assistive hardware.
+I develop tools that live in the physical world—from medical gauging (**OSAGE**) to automated environments (**Smart Greenhouse**) and ambient interfaces (**Play-Mirror**).
 
-### Core Projects
-
-* **OSAGE:** Hardware and software for gauging Obstructive Sleep Apnea.
-* **Smart Greenhouse:** Automated climate control and sensor monitoring for sustainable agriculture.
-* **Play-Mirror:** An ambient interface for information delivery via smart-mirror hardware.
-* **Pi-Watch:** A bedside utility for time and radio, built on Raspberry Pi.
-* **News-BulletIn:** A news aggregator designed to reduce media bias through data.
-
-### Technical Focus
-
-* **Primary Tooling:** Python, Linux, Raspberry Pi/Microcontrollers.
-* **Domains:** IoT Architecture, Sensor Integration, Embedded UI.
-
-### Principles
-
-I aim for technology that:
-1. Solves a specific, tangible problem.
-2. Works in the background with minimal user intervention.
-3. Prioritizes longevity and repairability.
+### Snapshot
+* **Primary:** `Python` `C++` `Linux` `IoT`
+* **Hardware:** `Raspberry Pi` `ESP32` `I2C/SPI`
+* **Stats:** [20+ Repositories](https://github.com/gagansopori?tab=repositories) • [Top 10% Python](https://github.com/gagansopori)
 
 ---
-[LinkedIn](https://www.linkedin.com/in/gagansopori) | Bentonville, AR
+[LinkedIn](https://www.linkedin.com/in/gagansopori) / Bentonville, AR
