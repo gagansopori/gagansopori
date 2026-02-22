@@ -6,8 +6,9 @@ I design tools that live in the physical world—low-friction IoT systems, medic
 ---
 
 ### 📊 Velocity & Tech
-[![Gagan's Stats](https://github-readme-stats.vercel.app/api?username=gagansopori&show_icons=true&theme=transparent&hide_border=true&title_color=333&text_color=666&icon_color=888&hide=stars,rank)](https://github.com/gagansopori)
+![Gagan's Stats](https://github-readme-stats.vercel.app/api?username=gagansopori&show_icons=true&theme=neutral&hide_border=true&hide=stars,rank)
 
 `Python` • `C++` • `Linux` • `Raspberry Pi` • `I2C/SPI` • `IoT Architecture`
 
 ---
+📍 Bentonville, AR
