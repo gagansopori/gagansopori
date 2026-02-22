@@ -1,17 +1,26 @@
-### Hi there 👋
+# Gagan Sopori
 
-<!--
-**gagansopori/gagansopori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I develop software that bridges the gap between digital logic and physical utility. My work focuses on Python-based automation, IoT systems, and assistive hardware.
 
-Here are some ideas to get you started:
+### Core Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Gagan's github stats](https://github-readme-stats.vercel.app/api?username=gagansopori)](https://github.com/anuraghazra/github-readme-stats)
+* **OSAGE:** Hardware and software for gauging Obstructive Sleep Apnea.
+* **Smart Greenhouse:** Automated climate control and sensor monitoring for sustainable agriculture.
+* **Play-Mirror:** An ambient interface for information delivery via smart-mirror hardware.
+* **Pi-Watch:** A bedside utility for time and radio, built on Raspberry Pi.
+* **News-BulletIn:** A news aggregator designed to reduce media bias through data.
+
+### Technical Focus
+
+* **Primary Tooling:** Python, Linux, Raspberry Pi/Microcontrollers.
+* **Domains:** IoT Architecture, Sensor Integration, Embedded UI.
+
+### Principles
+
+I aim for technology that:
+1. Solves a specific, tangible problem.
+2. Works in the background with minimal user intervention.
+3. Prioritizes longevity and repairability.
+
+---
+[LinkedIn](https://www.linkedin.com/in/gagansopori) | Bentonville, AR
