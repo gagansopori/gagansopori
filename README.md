@@ -1,12 +1,9 @@
 # Gagan Sopori
-**Building quiet utility at the intersection of Python and Hardware.**
+**Building quiet, physical utility at the intersection of Python and Hardware.**
 
-I develop tools that live in the physical world—from medical gauging (**OSAGE**) to automated environments (**Smart Greenhouse**) and ambient interfaces (**Play-Mirror**).
+I design tools for the physical world—medical gauging, automated environments, and ambient interfaces. My work focuses on low-friction IoT that resides in the background of daily life.
 
-### Snapshot
-* **Primary:** `Python` `C++` `Linux` `IoT`
-* **Hardware:** `Raspberry Pi` `ESP32` `I2C/SPI`
-* **Stats:** [20+ Repositories](https://github.com/gagansopori?tab=repositories) • [Top 10% Python](https://github.com/gagansopori)
+`Python` • `C++` • `Linux` • `IoT` • `Raspberry Pi` • `Bentonville, AR`
 
 ---
-[LinkedIn](https://www.linkedin.com/in/gagansopori) / Bentonville, AR
+[LinkedIn](https://www.linkedin.com/in/gagansopori) / [Contact](mailto:your-email@example.com)
