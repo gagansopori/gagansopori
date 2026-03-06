@@ -11,4 +11,3 @@ I design tools that live in the physical world—low-friction IoT systems, medic
 `Python` • `C++` • `Linux` • `Raspberry Pi` • `I2C/SPI` • `IoT Architecture`
 
 ---
-📍 Bentonville, AR
